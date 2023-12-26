@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\application\usecases\GetPromotionForProductsUseCase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\domain\model\Promotion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\infrastructure\PromotionController.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\infrastructure\SqlitePromotionRepository.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\infrastructure\SqliteUnitOfWork.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\domain\enums\BasketType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\Discount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\application\dto\DiscountDto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\base\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\Filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\application\usecases\GetPromotionForProductsUseCase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\interfaces\IPromotionRepository.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\interfaces\IUnitOfWork.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\interfaces\IUseCase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\Product.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\ProductDiscount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\application\dto\ProductDto.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\ProductPromotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\PromoBasket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\PromoBasketProduct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\Promotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="include\infrastructure\PromotionController.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="include\domain\enums\PromotionType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\infrastructure\SqlitePromotionRepositroy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\infrastructure\SqliteUnitOfWork.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="include\domain\model\base\ValueObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

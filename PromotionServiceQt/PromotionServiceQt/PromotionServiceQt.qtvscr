@@ -1,0 +1,1672 @@
+<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
+  <FlowDocument.Tag><![CDATA[{
+  "timestamp": "2023-12-24 23:23:45",
+  "files": {
+    "C:\\Users\\User\\Desktop\\AEH\\Praca magisterska\\PromotionServiceQt\\PromotionServiceQt\\PromotionServiceQt.vcxproj": {
+      "before": "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",
+      "after": "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"
+    },
+    "C:\\Users\\User\\Desktop\\AEH\\Praca magisterska\\PromotionServiceQt\\PromotionServiceQt\\PromotionServiceQt.vcxproj.filters": {
+      "before": "5VhNb5tAEM25Um/9Ach3DP62C3ZkbJy6l1RN016QKryMwyawS3aXyFHV/94lxoA/JLtJoIqKQLIX2Dez8+bNLJ8/nJ2Z56swUB6AcUzJsNao6zUFCKIeJjfDWiyWar92Pnr/zvzC6C0gocjHCR/WfCGij5rGkQ+hy+shRoxyuhR1REPNgwcIaARMC/kixoGnNXW9VZPTKIo5FxBeMBpHT3/lwAwHApgyJyiIPRjWLoAAcwV4irwDfP2aIg/zmuD7GOYeEIGXGNjoV69hT/vyVMcTa6C2J/ZAtSy7odq6brX0RrttNxq/TW3vxcSSpyntlQCS+M5HKIoMZKDVyggpMnzDg6VBvcDA8mLADVMrPLyewNTWxv8HrnwC15NROh6SQWsw6LT6utofWFO1vdDbar9vW2q32ZlZdqdpWzPr1JD4hi+D4suQ+KGBiYwFQcaKe88IxVu3/4rGDMEJ69+eTXqt3qyhTnrjjtpu9brqWO921ea41Zz2Os1xczY7df3zlCgmgx/dGgtXGC4Pk2v1jGi8YW9MbVvB9gVtEkxoGEntyjWNM+S4URRg5AopNk7MAbkcuHMBQiprSJPRGWXytxcjwa85TOT9ugxAQf9SsSku3q4CaRn4RpOygW1rPBq6mDgh9SBwMhNKBMRkyVwumHQvZpBDTigRjAYBsOrAr+4DLCDz+itElGNB2WPVJsjCJC6XPyi7Kwk5CfKLpz6F8mn5zkkmpTqp505KNCBxyB3L5Xcgvj1GUPf3iV3U6APETiFyYh/DXJN7ijmiMRGlIhaT2xPU2YBOBS0VdyuNF1IyHFs2R+KxOtC1KJWKV1zcU5WzAnphIvvWpYukjM8PaUnFJhS0pGrktFpVAJvVq6RMlkq6rcxK6/Imq0sFLrI9kZINdpVKkmJmrC7V4d2VDum6TPwT0NTzirGT9u8VIGMuaGglO+79OnxC//XX+ZvjnV6U141AxqzSe4Edvw+3foyWWzEPGlGtYK+V86lF+O4GMVwuku85LyTdKZ3h3mbIg0V8I3ce6GfGgmObgJ1vQgeawxQl5+EeLIMAkgapZOA8J/IczD2OGMitNK/7dbQQ+x3wUT/z2TNP86EcsOjrK0Nuh9zUZAwTIo3+AA==",
+      "after": "5VjLbptAFM26Ulf9Act7DH7bBTsyNk69aNM2TbtBqvBwHSaBGTIzRI6q/nsHGwN+SKGJoIpqGckeYM59nHvuhU/vzs6M83Xg1x6AcUzJqN5saPUaEERdTG5G9UislEH9fPz2jfGZ0VtAoiYvJ3xU94QI36sqRx4EDm8EGDHK6Uo0EA1UFx7ApyEwNeDLCPuu2tK0dl1uU6sZCwHBBaNRuPkrF+bYF8BqC4L8yIVR/QIIMEeAW5NngG9vq8mPcU3wfQQLF4jAKwxs/KvftGYD+VUmU3OodKbWUDFNq6lYmma2tWanYzWbvw316MbYks2W1loAiX3nYxSGOtLReq0HFOme7sJKp66vY3kw4Lqh5i7ebmCoW+P/A1c+gOPKLD2dkmF7OOy2B5oyGJozpbPUOspgYJlKr9Wdm1a3ZZlzs2hKPN2TSfFkSrxAx0TmgiB9zd1npOK1239FI4agQPw782m/3Z83lWl/0lU67X5PmWi9ntKatFuzfrc1ac3nReOflUS+GLzwVl86Qnd4EB/rZ2TjFXtjqPsKdixoU39Kg1BqV6ZpnCHbCUMfI0dIsbEjDsjhwO0LEFJZAxqvzimTv90ICX7NYSrPN2QCcvqXiE0+eIcKpKbgO01KF/atcWngYGIH1AXfTk0oERCTFXO4YNK9iEEGOaVEMOr7wKoDv7r3sYDU668QUo4FZY9VmyAbk7hc/aDsriTkOMkv3roI5ZP2nZFMSnXcz+2EaECigNumw+9AfHsMoeEdEzuv0SeInUBkxH4Kc0vuGeaIRkSUipgvbldQewc6E7RU3L0yXkrJsC05HInH6kC3olQqXj64RZWzAnphIufWlYOkjC9OaUnFJuS0pGrkpFtVAJv2q7hNlkq6vcpK+vKuqksFzrM9lpIddpVKkmCmrC7V4cNIB3TbJv4JaOJ5xdjx+PdyyC/iI0XHHbjA5PW3lbtBKt6It80/ZVPp/f/A49PjHqPldsmTRlQr0lu13IwF3x0/gstl/A7nhUQrMA1GXNDAjN/8ZGx0YRndyOcN9DNkIB8necNroKU4ngIP3v8cD4LZ7ikDs6UMkIEP8UBUAuR+CAxVMjsO7PgP"
+    }
+  }
+}]]></FlowDocument.Tag>
+  <Section Margin="0,24" TextAlignment="Center">
+    <Paragraph FontSize="24" FontWeight="Bold" Margin="12,0">
+      <LineBreak />
+      <Span Foreground="Gray">Qt Visual Studio Tools</Span>
+    </Paragraph>
+    <Paragraph FontSize="42" Margin="12,0" FontWeight="Bold">
+      <Span TextDecorations="Underline">Project Format Conversion</Span>
+    </Paragraph>
+    <Paragraph Margin="12,8" FontSize="18">
+      <Span>Report generated on 2023-12-24 23:23:45</Span>
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Files</Span>
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+    <Paragraph Margin="24,12,0,0">
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters]]></Span>
+      <LineBreak />
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters?diff&amp;before&amp;after">
+                        [Diff before/after]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters?diff&amp;before&amp;current">
+                        [Diff before/current]
+                    </Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters?diff&amp;after&amp;current">
+                        [Diff after/current]
+                    </Hyperlink>
+      <LineBreak />
+    </Paragraph>
+  </Section>
+  <Section>
+    <Paragraph FontSize="32" FontWeight="Bold" Margin="12,0">
+      <Span>Changes</Span>
+    </Paragraph>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Replacing paths with "$(QTDIR)"]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtNetwork]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtSql]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtConcurrent]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtCore]]></Span><Span><![CDATA[;release;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtNetwork]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtSql]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtConcurrent]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;release;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Network]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Sql]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Concurrent]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Core]]></Span><Span><![CDATA[.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalDependencies>$(QTDIR)\lib\Qt5Network]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Sql]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Concurrent]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Core]]></Span><Span><![CDATA[.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtNetwork]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtSql]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtConcurrent]]></Span><Span><![CDATA[;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\include\QtCore]]></Span><Span><![CDATA[;debug;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>.;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtNetwork]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtSql]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtConcurrent]]></Span><Span><![CDATA[;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\include\QtCore]]></Span><Span><![CDATA[;debug;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Networkd]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Sqld]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Concurrentd]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\lib\Qt5Cored]]></Span><Span><![CDATA[.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalDependencies>$(QTDIR)\lib\Qt5Networkd]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Sqld]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Concurrentd]]></Span><Span><![CDATA[.lib;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\lib\Qt5Cored]]></Span><Span><![CDATA[.lib;%(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">include\infrastructure\PromotionController.h;release\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">include\infrastructure\PromotionController.h;release\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\QT\QT5.12.12\5.12.12\MSVC2017_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NO_DEBUG -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/release/moc_predefs.h" ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtSql]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtConcurrent]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o release\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NO_DEBUG -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/release/moc_predefs.h" ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtSql]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtConcurrent]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o release\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">include\infrastructure\PromotionController.h;debug\moc_predefs.h;]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">include\infrastructure\PromotionController.h;debug\moc_predefs.h;]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\QT\QT5.12.12\5.12.12\MSVC2017_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/debug/moc_predefs.h" ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtSql]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtConcurrent]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/QT/QT5.12.12/5.12.12/MSVC2017_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o debug\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/debug/moc_predefs.h" ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtNetwork]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtSql]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtConcurrent]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o debug\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -Zi -MDd -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;debug\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightCoral"><![CDATA[C:\QT\QT5.12.12\5.12.12\MSVC2017_64\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">cl -Bx"$(QTDIR)\bin\qmake.exe" -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew -Zc:referenceBinding -Zc:__cplusplus -O2 -MD -std:c++17 -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -E ]]></Span><Span Background="LightGreen"><![CDATA[$(QTDIR)\mkspecs\features\data\dummy]]></Span><Span><![CDATA[.cpp 2&gt;NUL &gt;release\moc_predefs.h</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting custom build steps to Qt/MSBuild items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>.;]]></Span><Span><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;release;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;release;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(Configuration)\moc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt;$(QTDIR)/include;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtSql;$(QTDIR)/include/QtConcurrent;$(QTDIR)/include/QtCore;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB</Define>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <CompilerFlavor>msvc</CompilerFlavor>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Include>C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/$(Configuration)/moc_predefs.h</Include>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <DynamicSource>output</DynamicSource>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    </QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalIncludeDirectories>.;]]></Span><Span><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;debug;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;debug;$(QTDIR)\mkspecs\win32-msvc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <OutputFile>$(Configuration)\moc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt;$(QTDIR)/include;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtSql;$(QTDIR)/include/QtConcurrent;$(QTDIR)/include/QtCore;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB</Define>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <CompilerFlavor>msvc</CompilerFlavor>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <Include>C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/$(Configuration)/moc_predefs.h</Include>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <ExecutionDescription>Moc'ing %(Identity)...</ExecutionDescription>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <DynamicSource>output</DynamicSource>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    </QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="include\infrastructure\PromotionController.]]></Span><Span Background="LightCoral"><![CDATA[h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="include\infrastructure\PromotionController.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">include\infrastructure\PromotionController.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NO_DEBUG -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/release/moc_predefs.h" -I$(QTDIR)/mkspecs/win32-msvc -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" -I$(QTDIR)/include -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtSql -I$(QTDIR)/include/QtConcurrent -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o release\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">MOC include/infrastructure/PromotionController.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">release\moc_PromotionController.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">include\infrastructure\PromotionController.h;debug\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_CONCURRENT_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include "C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt/debug/moc_predefs.h" -I$(QTDIR)/mkspecs/win32-msvc -I"C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt" -I$(QTDIR)/include -I$(QTDIR)/include/QtNetwork -I$(QTDIR)/include/QtSql -I$(QTDIR)/include/QtConcurrent -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" include\infrastructure\PromotionController.h -o debug\moc_PromotionController.cpp</Command>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">MOC include/infrastructure/PromotionController.h</Message>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">debug\moc_PromotionController.cpp;%(Outputs)</Outputs>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_PromotionController.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_PromotionController.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj.filters]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="include\infrastructure\PromotionController.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="include\infrastructure\PromotionController.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[</CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtMoc>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="debug\moc_PromotionController.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClCompile Include="release\moc_PromotionController.cpp">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Generated Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClCompile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Enabling multi-processor compilation]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <MultiProcessorCompilation>true</MultiProcessorCompilation>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Project format version]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<Keyword>Qt4VSv1.0</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<Keyword>QtVS_v304</Keyword>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Fallback for QTMSBUILD environment variable]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtMsBuild Condition="'$(QtMsBuild)'=='' OR !Exists('$(QtMsBuild)\qt.targets')">$(MSBuildProjectDirectory)\QtMsBuild</QtMsBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Default Qt properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt_defaults.props" Condition="Exists('$(QtMsBuild)\qt_defaults.props')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt build settings]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Warn if Qt/MSBuild is not found]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') OR !Exists('$(QtMsBuild)\Qt.props')">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </Target>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt property sheet]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <Import Project="$(QtMsBuild)\Qt.props" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Qt targets]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <Import Project="$(QtMsBuild)\qt.targets" Condition="Exists('$(QtMsBuild)\qt.targets')" />]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Copying Qt build reference to QtInstall project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[  ]]></Span><Span Background="LightCoral"><![CDATA[<PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" />]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtInstall>5.12.12_msvc2017_64</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  <PropertyGroup Label="QtSettings" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtInstall>5.12.12_msvc2017_64</QtInstall>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[  </PropertyGroup>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span><![CDATA[NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module include paths from compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span Background="LightCoral"><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;]]></Span><Span><![CDATA[release]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span><![CDATA[release]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span Background="LightCoral"><![CDATA[$(QTDIR)\include;$(QTDIR)\include\QtNetwork;$(QTDIR)\include\QtSql;$(QTDIR)\include\QtConcurrent;$(QTDIR)\include\QtCore;]]></Span><Span><![CDATA[debug]]></Span><Span Background="LightCoral"><![CDATA[;$(QTDIR)\mkspecs\win32-msvc]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <AdditionalIncludeDirectories>GeneratedFiles\$(ConfigurationName);GeneratedFiles;.;]]></Span><Span><![CDATA[debug]]></Span><Span><![CDATA[;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module libraries from linker properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>$(QTDIR)\lib\Qt5Network.lib;$(QTDIR)\lib\Qt5Sql.lib;$(QTDIR)\lib\Qt5Concurrent.lib;$(QTDIR)\lib\Qt5Core.lib;%]]></Span><Span><![CDATA[(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalDependencies>%]]></Span><Span><![CDATA[(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalDependencies>$(QTDIR)\lib\Qt5Networkd.lib;$(QTDIR)\lib\Qt5Sqld.lib;$(QTDIR)\lib\Qt5Concurrentd.lib;$(QTDIR)\lib\Qt5Cored.lib;%]]></Span><Span><![CDATA[(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalDependencies>%]]></Span><Span><![CDATA[(AdditionalDependencies)</AdditionalDependencies>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt lib path from linker properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;%]]></Span><Span><![CDATA[(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>%]]></Span><Span><![CDATA[(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalLibraryDirectories>$(QTDIR)\lib;%]]></Span><Span><![CDATA[(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      ]]></Span><Span Background="LightGreen"><![CDATA[<AdditionalLibraryDirectories>%]]></Span><Span><![CDATA[(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing Qt module macros from resource compiler properties]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span Background="LightCoral"><![CDATA[QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;]]></Span><Span><![CDATA[%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span Background="LightCoral"><![CDATA[QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[      <PreprocessorDefinitions>_CONSOLE;UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;]]></Span><Span><![CDATA[_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Adding Qt module names to QtModules project property]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;sql;network;concurrent</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[    <QtModules>core;sql;network;concurrent</QtModules>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Converting OutputFile to <tool>Dir and <tool>FileName]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtMocDir>$(Configuration)</QtMocDir>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtMocFileName>moc_%(Filename).cpp</QtMocFileName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtMocDir>$(Configuration)</QtMocDir>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightGreen"><![CDATA[      <QtMocFileName>moc_%(Filename).cpp</QtMocFileName>]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+    <Paragraph FontSize="20" FontWeight="Bold" Margin="12">
+      <Span><![CDATA[🡺 Removing old properties from project items]]></Span>
+    </Paragraph>
+    <Table CellSpacing="0" BorderBrush="Gray" BorderThickness="0.5">
+      <Table.Columns>
+        <TableColumn />
+        <TableColumn />
+      </Table.Columns>
+      <TableRowGroup>
+        <TableRow Background="Orange">
+          <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
+            <Paragraph Margin="10,5" FontWeight="Bold">
+              <Span><![CDATA[C:\Users\User\Desktop\AEH\Praca magisterska\PromotionServiceQt\PromotionServiceQt\PromotionServiceQt.vcxproj]]></Span>
+            </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(Configuration)\moc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt;$(QTDIR)/include;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtSql;$(QTDIR)/include/QtConcurrent;$(QTDIR)/include/QtCore;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NO_DEBUG;QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB</Define>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <QTDIR>$(QTDIR)</QTDIR>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <InputFile>%(FullPath)</InputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <OutputFile>$(Configuration)\moc_%(Filename).cpp</OutputFile>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <IncludePath>GeneratedFiles\$(ConfigurationName);GeneratedFiles;$(QTDIR)/mkspecs/win32-msvc;C:/Users/User/Desktop/AEH/Praca magisterska/PromotionServiceQt/PromotionServiceQt;$(QTDIR)/include;$(QTDIR)/include/QtNetwork;$(QTDIR)/include/QtSql;$(QTDIR)/include/QtConcurrent;$(QTDIR)/include/QtCore;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\ATLMFC\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt;C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um</IncludePath>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Define>UNICODE;_UNICODE;WIN32;_ENABLE_EXTENDED_ALIGNED_STORAGE;WIN64;QT_NETWORK_LIB;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_CORE_LIB</Define>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+      </TableRowGroup>
+    </Table>
+  </Section>
+  <Section>
+    <Paragraph />
+  </Section>
+</FlowDocument>
+<!--5RcohA2WGg8hVypiu0fhaeZZwGnLikExdVx9U5eOh8s=-->

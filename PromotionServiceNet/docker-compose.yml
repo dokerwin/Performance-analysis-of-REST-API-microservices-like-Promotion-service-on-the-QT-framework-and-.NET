@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  promotionservicenet:
+    image: ${DOCKER_REGISTRY-}promotionservicenet
+    build:
+      context: .
+      dockerfile: PromotionServiceNet/Dockerfile

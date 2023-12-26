@@ -1,0 +1,42 @@
+Class EFPromotionRepository Implements IPromotionRepository
+    Private _eFContext As EFContext
+    Private _promotions As DbSet(Of Promotion)
+
+    Constructor EFPromotionRepository(eFContext As EFContext)
+        _eFContext = eFContext
+        _promotions = _eFContext.Set(Of Promotion)()
+    End Constructor
+
+    Method AddPromotion(promotion As Promotion) Returns Boolean
+        Await _promotions.AddAsync(promotion)
+        Await _eFContext.SaveChangesAsync()
+        Return True
+    End Method
+
+    Method DeletePromotion(promotion As Promotion) Returns Boolean
+        _promotions.Remove(promotion)
+        Await _eFContext.SaveChangesAsync()
+        Return True
+    End Method
+
+    Method GetPromotionById(id As Guid) Returns Promotion
+        Return Await _promotions.FirstOrDefaultAsync(Function(p) p.Id = id)
+    End Method
+
+    Method GetPromotionsByFilter(filter As Filter) Returns List(Of Promotion)
+        Dim query = _promotions.Include(Function(p) p.AssociatedProducts).AsQueryable()
+
+        If filter.IsActive Then
+            Dim currentDate = filter.CurrentDate.Date
+            query = query.Where(Function(p) p.StartDate.Date <= currentDate AndAlso p.EndDate.Date >= currentDate)
+        End If
+
+        Return Await query.ToListAsync()
+    End Method
+
+    Method UpdatePromotion(promotion As Promotion) Returns Boolean
+        _promotions.Update(promotion)
+        Await _eFContext.SaveChangesAsync()
+        Return True
+    End Method
+End Class
